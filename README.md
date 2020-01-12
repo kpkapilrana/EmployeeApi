@@ -1,4 +1,6 @@
 # EmployeeApi
+
+--  npm install
 This is Rest api in nodeJs Hapi and KnexJS.
 To Run This NodeJs App.
 Step - 1
